@@ -5,14 +5,19 @@ This Sales Dashboard is an interactive Excel report designed to provide a compre
 🔹 Tech Stack
 
 •	MS Excel – platform for building the dashboard.
+
 •	Pivot Tables & Charts – For summarizing and visualizing datasets.
+
 •	Slicers & Timelines – To create dynamic filtering by state, product, category, gender, and time period.
+
 •	Conditional Formatting – For highlighting key values.
+
 •	Data Cleaning & Preparation – Ensuring accurate and consistent data representation.
 
 🔹 Data Source
 
 •	Source:  dataset Creating using ChatGPT (designed to Create retail sales transactions dataset for practice).
+
 •	Dataset Includes: Product details, sales prices, profit values, categories, gender-based segmentation, and regional/state-wise transactions.
 
 
@@ -25,22 +30,31 @@ Organizations often face problem to quickly monitor regional and product-level s
 Goal of the Dashboard
 
 To provide a visually interactive tool that helps:
+
 •	Compare gender-based purchase behaviour
+
 •	Analysis of sales by category and product.
+
 •	Identify top-performing and low-performing states.
 
 Walkthrough of Key Visuals
 
 •	KPIs (Top Center): Shows Total Sales (₹53M) and Total Profit (₹19.5M).
+
 •	Pie Chart (Gender-wise Analysis): Shows male vs. female contribution in overall sales.
+
 •	Tree-map (Category-wise Performance): Shows the contribution of categories fashion, Electronic And Décor.
+
 •	Line & Column Charts (State-wise Sales & Quantity): Visualize state-level performance in revenue and product volume.
+
 •	Filters (Left Panel): filtering by product, category, state, gender, and month.
 
 Business Impact & Insights
 
 •	Maharashtra, Uttar Pradesh, and West Bengal emerge as top-performing states in terms of sales.
+
 •	Male customers contribute higher revenue compared to female customers.
+
 •	Electronics category contributes the maximum share of sales among all product categories.
 
 🔹 Screenshots / Demos
