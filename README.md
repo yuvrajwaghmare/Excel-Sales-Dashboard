@@ -6,11 +6,15 @@ This Sales Dashboard is an interactive Excel report designed to provide a compre
 
 •	MS Excel – platform for building the dashboard.
 
+
 •	Pivot Tables & Charts – For summarizing and visualizing datasets.
+
 
 •	Slicers & Timelines – To create dynamic filtering by state, product, category, gender, and time period.
 
+
 •	Conditional Formatting – For highlighting key values.
+
 
 •	Data Cleaning & Preparation – Ensuring accurate and consistent data representation.
 
