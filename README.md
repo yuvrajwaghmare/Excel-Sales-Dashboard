@@ -15,12 +15,15 @@ This Sales Dashboard is an interactive Excel report designed to provide a compre
 •	Source:  dataset Creating using ChatGPT (designed to Create retail sales transactions dataset for practice).
 •	Dataset Includes: Product details, sales prices, profit values, categories, gender-based segmentation, and regional/state-wise transactions.
 
+
 🔹 Features / Highlights
 
 Business Problem
 
 Organizations often face problem to quickly monitor regional and product-level sales performance .Manual reporting consumes time and makes it difficult to identify top contributors or underperforming areas.
+
 Goal of the Dashboard
+
 To provide a visually interactive tool that helps:
 •	Compare gender-based purchase behaviour
 •	Analysis of sales by category and product.
@@ -40,6 +43,7 @@ Business Impact & Insights
 •	Male customers contribute higher revenue compared to female customers.
 •	Electronics category contributes the maximum share of sales among all product categories.
 
-<img width="1880" height="854" alt="Sales_Dashboard_Excel" src="https://github.com/user-attachments/assets/4c42c474-9754-4828-9aa5-19bb987ba96d" />
+🔹 Screenshots / Demos
+<img width="1880" height="854" alt="Sales_Dashboard_Excel" src="https://github.com/user-attachments/assets/c34dc83c-07d8-48b8-a585-f2e0e75f6456" />
 
 
